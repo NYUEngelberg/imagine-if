@@ -8,7 +8,7 @@ Imagine IF: The Game (Current Version)
   "format": "Harlowe",
   "format-version": "3.3.9",
   "start": "Welcome",
-  "zoom": 0.3
+  "zoom": 0.6
 }
 
 
@@ -202,7 +202,7 @@ In recent years, conservative calls to restrict collections have resulted in a s
 [[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Library Bill of Rights]]</span>
 
 
-:: Dilemma - Chaos End Card (Ignore) {"position":"1900,3250","size":"100,100"}
+:: Dilemma - Chaos End Card (Ignore) {"position":"1900,3300","size":"100,100"}
  <img src="images/the_end.png" width="200" height="auto" alt="">
 <h1 class="sr-only">The End</h1>
 Thanks for choosing chaos! We're glad that you experimented with this option to see what would happen. As you've now discovered, choosing chaos can lead to challenges for you and your library. <br><br>Would you like to go back and practice some patron interaction skills to improve your outcome?<br><br>[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Practice skills|Dilemma - Practice Skills (Your Move)]]
@@ -215,7 +215,7 @@ Thanks for choosing chaos! We're glad that you experimented with this option to 
 
 
 
-:: Dilemma - Chaos End Card (Revamp) {"position":"1700,3250","size":"100,100"}
+:: Dilemma - Chaos End Card (Revamp) {"position":"1700,3300","size":"100,100"}
  <img src="images/the_end.png" width="200" height="auto" alt="">
 <h1 class="sr-only">The End</h1>
 Thanks for choosing chaos! We're glad that you experimented with this option to see what would happen. As you've now discovered, choosing chaos can lead to challenges for you and your library. <br><br>Would you like to go back and practice some patron interaction skills to improve your outcome?<br><br>[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Practice skills|Dilemma - Practice Skills (Your Move)]]
@@ -329,7 +329,7 @@ A library's collection development team collaborates with library staff to manag
 [[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Dilemma - Dr. Yuss Disgruntled (Ending)]]</span>
 
 
-:: Dilemma - Dr. Yuss Disgruntled (Ending) {"position":"1925,2800","size":"100,100"}
+:: Dilemma - Dr. Yuss Disgruntled (Ending) {"position":"1750,2825","size":"100,100"}
 <img class="fit-picture" src="images/GeneYussShrug_wBooks.png"  alt="Dr. Yuss shrugs. Lily Yuss looks up at him.">
 
 Dr. Yuss throws up his arms, disgruntled. He walks towards the exit.
@@ -342,7 +342,7 @@ Dr. Yuss throws up his arms, disgruntled. He walks towards the exit.
 [[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Dilemma - Mid End Card (Disengage and Forms)]]</span>
 
 
-:: Dilemma - Dr. Yuss Satisfied (Ending) {"position":"1075,2850","size":"100,100"}
+:: Dilemma - Dr. Yuss Satisfied (Ending) {"position":"300,2800","size":"100,100"}
 <img class="fit-picture" src="images/Keep_Calm.png" alt="Keep calm and keep calm meme with cat librarian wearing a crown">
 
 Dr. Yuss is satisfied, having been given the opportunity be heard.
@@ -352,10 +352,23 @@ Dr. Yuss is satisfied, having been given the opportunity be heard.
 
 
 
-[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Dilemma - Great End Card]]</span>
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Dilemma - Practice Skills End Card]]</span>
 
 
-:: Dilemma - Dr. Yuss Unsatisfied (Ending) {"position":"1500,2825","size":"100,100"}
+:: Dilemma - Dr. Yuss Satisfied (Ending)(After Ignore) {"position":"1100,2800","size":"100,100"}
+<img class="fit-picture" src="images/Keep_Calm.png" alt="Keep calm and keep calm meme with cat librarian wearing a crown">
+
+Dr. Yuss is ultimately satisfied, having been given the opportunity be heard.
+
+
+<h1 class="action-style">Dr. Yuss and Lily Yuss leave the library.</h1>
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Dilemma - Good End Card (After Ignore)]]</span>
+
+
+:: Dilemma - Dr. Yuss Unsatisfied (Ending) {"position":"1500,2800","size":"100,100"}
 <img class="fit-picture"  src="images/GeneYussShrug_wBooks.png"  alt="Dr. Yuss shrugs. Lily Yuss looks up at him.">
 
 <span class="speech-style">Dr. Yuss:</span> Well, this is extremely frustrating. I can't believe this is how my tax dollars are being spent. Lily and I will not be coming back to this library again!
@@ -388,7 +401,7 @@ Dr. Yuss is satisfied, having been given the opportunity be heard.
 [[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Dilemma - Engage (Your Move)(After Policies)]]</span>
 
 
-:: Dilemma - Engage (Your Move) {"position":"1350,1950","size":"100,100"}
+:: Dilemma - Engage (Your Move)(After Ignore) {"position":"1200,1800","size":"100,100"}
 <img class="fit-picture" src="images/ActionCard_Engage.png" alt="">
 <h1 class="sr-only">Engage</h1>
 <h1 class="action-style">You decide to engage with Dr. Yuss.</h1>
@@ -396,11 +409,11 @@ Dr. Yuss is satisfied, having been given the opportunity be heard.
 How do you try to resolve the situation?
 
 
-[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Listen actively|Dilemma - Listen Actively]]</span>
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Listen actively|Dilemma - Listen Actively (After Ignore)]]</span>
 
-[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Provide options|Dilemma - Provide Options]]</span>
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Provide options|Dilemma - Provide Options (After Ignore)]]</span>
 
-[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Show appreciative curiosity|Dilemma - Show Appreciative Curiosity]]</span>
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Show appreciative curiosity|Dilemma - Show Appreciative Curiosity (After Ignore)]]</span>
 
 
 :: Dilemma - Engage (Your Move)(After Policies) {"position":"1800,2100","size":"100,100"}
@@ -419,7 +432,7 @@ Do you consult with the [[<span class="info-style">collection development team</
 [[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Respectfully disengage|Dilemma - Respectfully Disengage]]
 
 
-:: Dilemma - Engage - Collection Development Team (Forms Info) {"position":"850,2100","size":"100,100"}
+:: Dilemma - Engage - Collection Development Team (Forms Info) {"position":"650,2150","size":"100,100"}
 <h1 class="header-style">About Collection Development Teams</h1>
 
 Library collection development is the process of systematically building the collection of a particular library to meet the information needs of the library users (a service population) in a timely and economical manner, using information resources locally held as well as resources from other organizations. 
@@ -443,11 +456,10 @@ A library's collection development team collaborates with library staff to manag
 [[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Return to game |Dilemma - Engage (Your Move)(After Policies)]]</span>
 
 
-:: Dilemma - Great End Card {"position":"900,3250","size":"100,100"}
- <img src="images/the_end.png" width="200" height="auto" alt="">
+:: Dilemma - Good End Card (After Ignore) {"position":"900,3300","size":"100,100"}
+<img src="images/the_end.png" width="200" height="auto" alt="">
 <h1 class="sr-only">The End</h1>
-Congratulations on successfully navigating a challenging scenario! You chose a great option that often leads to positive outcomes with patrons. Your choice de-escalated the situation, left the patron feeling heard and respected, and built the relationship between the patron and the library.
-<br><br>Would you like to go back and practice your patron interaction skills?<br><br>[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Practice more skills|Dilemma - Practice Skills (Your Move)]]
+Congratulations on successfully navigating a challenging scenario! You started off on the wrong foot by ignoring the patron, but then switched tactics. When you engaged, you chose a great option that often leads to positive outcomes. Your choice ultimately de-escalated the situation, left the patron feeling heard and respected, and built the relationship between the patron and the library.<br><br>Would you like to go back and practice your patron interaction skills?<br><br>[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Practice more skills|Dilemma - Practice Skills (Your Move)]]
 
 [[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Play another scenario|Game Start]]
 
@@ -489,12 +501,12 @@ Do you continue to ignore Dr. Yuss, calmly engage with Dr. Yuss, or print out th
 
 [[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Keep ignoring Dr. Yuss|Dilemma - Ignore Further (Ending)]]</span>
 
-[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Calmly engage with Dr. Yuss|Dilemma - Engage (Your Move)]]</span>
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Calmly engage with Dr. Yuss|Dilemma - Engage (Your Move)(After Ignore)]]</span>
 
 [[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Print challenge forms|Dilemma - Print Forms]]</span>
 
 
-:: Dilemma - Ignore - Book Challenge Forms(Info) {"position":"1625,1800","size":"100,100"}
+:: Dilemma - Ignore - Book Challenge Forms(Info) {"position":"1650,1800","size":"100,100"}
 <h1 class="header-style">About Book Challenge Forms</h1>
 
 <a href="https://www.ala.org/tools/challengesupport/requestforreconsideration" target="_blank" rel="noopener noreferrer" aria-label="Link opens in a new tab. To return to the game, close the tab.">Reconsideration forms</a> are the formal mechanism for challenging books in a library setting. Every library should have a <a href="https://www.ala.org/tools/challengesupport/selectionpolicytoolkit/formalreconsideration" target="_blank" rel="noopener noreferrer" aria-label="Link opens in a new tab. To return to the game, close the tab.">written policy</a> for book challenges that include reconsideration forms as a first step. Libraries often publish their reconsideration policies online to increase transparency with their users. The American Library Association provides <a href="https://www.ala.org/tools/challengesupport" target="_blank" rel="noopener noreferrer" aria-label="Link opens in a new tab. To return to the game, close the tab.">extensive resources</a> to help libraries create book challenge policies.
@@ -507,7 +519,7 @@ Do you continue to ignore Dr. Yuss, calmly engage with Dr. Yuss, or print out th
 
 
 
-:: Dilemma - Ignore Further (Ending) {"position":"1600,1950","size":"100,100"}
+:: Dilemma - Ignore Further (Ending) {"position":"1500,2000","size":"100,100"}
 <img class="fit-picture" src="images/ActionCard_Ignore.png" alt="alt">
 
 <h1 class="action-style">You continue ignoring Dr. Yuss and focus on organizing papers behind the service desk.</h1>
@@ -518,7 +530,7 @@ Do you continue to ignore Dr. Yuss, calmly engage with Dr. Yuss, or print out th
 
 
 
-:: Dilemma - Listen Actively {"position":"1350,2250","size":"100,100"}
+:: Dilemma - Listen Actively {"position":"475,2400","size":"100,100"}
 <img class="fit-picture" src="images/ActionCard_ActiveListening.png" alt="">
 <h1 class="sr-only">Listen actively</h1>
 <h1 class="action-style">You listen actively to Dr. Yuss's concerns.</h1>
@@ -532,7 +544,21 @@ Try to refrain from expressing judgment. Then summarize, share, and reflect on w
 [[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Dilemma - Listen Actively (Continued)]]</span>
 
 
-:: Dilemma - Listen Actively (Continued) {"position":"1350,2450","size":"100,100"}
+:: Dilemma - Listen Actively (After Ignore) {"position":"1025,2200","size":"100,100"}
+<img class="fit-picture" src="images/ActionCard_ActiveListening.png" alt="">
+<h1 class="sr-only">Listen actively</h1>
+<h1 class="action-style">You listen actively to Dr. Yuss's concerns.</h1>
+
+When actively listening to Dr. Yuss, it’s important to focus on the intent and purpose of the points raised. Pay attention to body language and give encouraging verbal cues. You might also ask questions or encourage Dr. Yuss to clarify or paraphrase.
+
+Try to refrain from expressing judgment. Then summarize, share, and reflect on what you were told.
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Dilemma - Listen Actively (Continued)(After Ignore)]]</span>
+
+
+:: Dilemma - Listen Actively (Continued) {"position":"500,2600","size":"100,100"}
 <img class="fit-picture" src="images/Cat_WarmResponse.png" alt="The cat librarian appears curious">
 
 <h1 class="action-style">Here are some ways you might start that interaction:</h1>
@@ -549,10 +575,27 @@ Try to refrain from expressing judgment. Then summarize, share, and reflect on w
 [[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Dilemma - Dr. Yuss Satisfied (Ending)]]</span>
 
 
-:: Dilemma - Mid End Card (Consult) {"position":"1500,3250","size":"100,100"}
+:: Dilemma - Listen Actively (Continued)(After Ignore) {"position":"1025,2400","size":"100,100"}
+<img class="fit-picture" src="images/Cat_WarmResponse.png" alt="The cat librarian appears curious">
+
+<h1 class="action-style">Here are some ways you might start that interaction:</h1>
+
+<span class="speech-style">You:</span> I’m sorry, Dr. Yuss, I didn't quite follow what you were saying. Would you please repeat what you were saying a bit more slowly? I'm very interested in hearing your thoughts on this.
+
+<span class="speech-style">You:</span> I see you are upset about this, and I want to understand why. Can you explain further so I can find a way to help?
+
+<span class="speech-style">You:</span> I want to hear more about what's upsetting you. Would you like to go someplace quieter so I can hear all of your concerns?
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Practice more skills|Dilemma - Practice Skills (Your Move)]]</span>
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Dilemma - Dr. Yuss Satisfied (Ending)(After Ignore)]]</span>
+
+
+:: Dilemma - Mid End Card (Consult) {"position":"1500,3300","size":"100,100"}
  <img src="images/the_end.png" width="200" height="auto" alt="">
 <h1 class="sr-only">The End</h1>
-You've navigated a challenging scenario and chose a viable option. However, it can end in a less-than-ideal outcome because it puts your collection development team on the spot, disregards the formal reconsideration process, and can give the impression that the library will handle all complaints immediately. <br><br>Would you like to go back and practice some patron interaction skills to improve your outcome?<br><br>[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Practice skills|Dilemma - Engage (Your Move)]]
+You've navigated a challenging scenario and chose a viable option. However, it can end in a less-than-ideal outcome because it puts your collection development team on the spot, disregards the formal reconsideration process, and can give the impression that the library will handle all complaints immediately. <br><br>Would you like to go back and practice some patron interaction skills to improve your outcome?<br><br>[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Practice skills|Dilemma - Practice Skills (Your Move)]]
 
 [[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Play another scenario|Game Start]]
 
@@ -562,7 +605,7 @@ You've navigated a challenging scenario and chose a viable option. However, it c
 
 
 
-:: Dilemma - Mid End Card (Disengage and Forms) {"position":"1200,3250","size":"100,100"}
+:: Dilemma - Mid End Card (Disengage and Forms) {"position":"1225,3300","size":"100,100"}
  <img src="images/the_end.png" width="200" height="auto" alt="">
 <h1 class="sr-only">The End</h1>
 You've navigated a challenging scenario and chose a viable option. However, it ended in a less-than-ideal outcome because your choice can ultimately lead to patrons feeling unheard or even disrespected. This unfortunately fails to build the relationship between the patron and the library.
@@ -576,7 +619,7 @@ You've navigated a challenging scenario and chose a viable option. However, it e
 
 
 
-:: Dilemma - Practice Skills (Your Move) {"position":"750,2250","size":"100,100"}
+:: Dilemma - Practice Skills (Your Move) {"position":"300,2200","size":"100,100"}
 <img class="fit-picture" src="images/Dilemma_PracticeSkills.png" alt="">
 <h1 class="sr-only">Engage</h1>
 <h1 class="action-style">You decide to practice your patron interaction skills.</h1>
@@ -592,7 +635,19 @@ Which skill do you use to try to resolve the situation?
 [[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Show appreciative curiosity|Dilemma - Show Appreciative Curiosity]]</span>
 
 
-:: Dilemma - Print Forms {"position":"1000,1475","size":"100,100"}
+:: Dilemma - Practice Skills End Card {"position":"300,3300","size":"100,100"}
+ <img src="images/the_end.png" width="200" height="auto" alt="">
+<h1 class="sr-only">The End</h1>
+Congratulations on successfully navigating a challenging scenario! You chose a great option that often leads to positive outcomes. Your choice  de-escalated the situation, left the patron feeling heard and respected, and built the relationship between the patron and the library.<br><br>Would you like to go back and practice your patron interaction skills?<br><br>[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Practice more skills|Dilemma - Practice Skills (Your Move)]]
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Play another scenario|Game Start]]
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Restart game|Welcome]]
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbspView game credits|Credits]]
+
+
+:: Dilemma - Print Forms {"position":"800,1525","size":"100,100"}
 <img class="fit-picture" src="images/ActionCard_PrintChallengeForms.png" alt="">
 <h1 class="sr-only">Print challenge forms</h1>
 <span class="speech-style">You:</span> Dr. Yuss, here is a packet of materials that includes the library’s mission statement, selection policy, the Request for Review of Library Materials form, and the Library Bill of Rights! 
@@ -604,7 +659,7 @@ Which skill do you use to try to resolve the situation?
 
 
 
-:: Dilemma - Print Forms (Continued Again) {"position":"1000,1825","size":"100,100"}
+:: Dilemma - Print Forms (Continued Again) {"position":"800,1875","size":"100,100"}
 <img class="fit-picture" src="images/Cat_withForm.jpg" alt="The cat librarian places book challenge forms on the desk">
 
 <span class="speech-style">You:</span> Our administration will review your concerns and the books to decide whether the materials are in line with our collection policy. The books will remain in circulation until a decision is made.
@@ -614,7 +669,7 @@ Which skill do you use to try to resolve the situation?
 [[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Dilemma - Print Forms (Continued Further)]]</span>
 
 
-:: Dilemma - Print Forms (Continued Further) {"position":"1000,1950","size":"100,100"}
+:: Dilemma - Print Forms (Continued Further) {"position":"800,2000","size":"100,100"}
 <img class="fit-picture"src="images/GeneYussShrug_wBooks.png"  alt="Dr. Yuss shrugs. Lily Yuss looks up at him.">
 
 <h1 class="action-style">Dr. Yuss grows frustrated and throws up his arms.</h1>
@@ -626,7 +681,7 @@ Which skill do you use to try to resolve the situation?
 [[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Dilemma - Print Forms (Your Move)]]</span>
 
 
-:: Dilemma - Print Forms (Continued) {"position":"1000,1675","size":"100,100"}
+:: Dilemma - Print Forms (Continued) {"position":"800,1725","size":"100,100"}
 <img class="fit-picture" src="images/GeneYussShrug_wBooks.png"  alt="Dr. Yuss shrugs. Lily Yuss looks up at him.">
 
 <span class="speech-style">Dr. Yuss:</span> Hmmm. What happens after I submit these cumbersome forms?
@@ -636,7 +691,7 @@ Which skill do you use to try to resolve the situation?
 [[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Dilemma - Print Forms (Continued Again)]]</span>
 
 
-:: Dilemma - Print Forms (Ending) {"position":"1000,2450","size":"100,100"}
+:: Dilemma - Print Forms (Ending) {"position":"800,2525","size":"100,100"}
 <img class="fit-picture"  src="images/GeneYussShrug_wBooks.png"  alt="Dr. Yuss shrugs. Lily Yuss looks up at him.">
 
 <span class="speech-style">Dr. Yuss:</span> Fine. I don’t think the responsibility of monitoring the library for inaccurate information should fall to the patrons, but I suppose that’s how you all spend our taxpayer money these days.
@@ -646,7 +701,7 @@ Which skill do you use to try to resolve the situation?
 [[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Dilemma - Dr. Yuss Disgruntled (Ending)]]</span>
 
 
-:: Dilemma - Print Forms (Explain Policies)) {"position":"1000,2250","size":"100,100"}
+:: Dilemma - Print Forms (Explain Policies)) {"position":"800,2300","size":"100,100"}
 <img class="fit-picture" src="images/ActionCard_ExplainLibraryPolicy.png" alt="">
 <h1 class="sr-only">Explain library policy</h1>
 
@@ -657,7 +712,7 @@ Which skill do you use to try to resolve the situation?
 [[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Dilemma - Print Forms (Ending)]]</span>
 
 
-:: Dilemma - Print Forms (Your Move) {"position":"1000,2100","size":"100,100"}
+:: Dilemma - Print Forms (Your Move) {"position":"800,2150","size":"100,100"}
 <img class="fit-picture"src="images/Cat_ComputerB.png" alt="A cat librarian sits at a computer desk">
 
 <h1 class="move-style">Your move.</h1>
@@ -675,7 +730,7 @@ Do you patiently continue to explain the challenge policies, offer Dr. Yuss a $2
 
 
 
-:: Dilemma - Provide Options {"position":"1525,2250","size":"100,100"}
+:: Dilemma - Provide Options {"position":"100,2400","size":"100,100"}
 <img class="fit-picture" src="images/Dilemma_ActionCard_ProvideOptions.png" alt="">
 <h1 class="sr-only">Provide options</h1>
 <h1 class="action-style">You provide Dr. Yuss with options.</h1>
@@ -689,7 +744,21 @@ Allowing patrons to imagine desirable outcomes before escalating a challenge oft
 [[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Dilemma - Provide Options (Continued)]]</span>
 
 
-:: Dilemma - Provide Options (Continued) {"position":"1525,2450","size":"100,100"}
+:: Dilemma - Provide Options (After Ignore) {"position":"1200,2200","size":"100,100"}
+<img class="fit-picture" src="images/Dilemma_ActionCard_ProvideOptions.png" alt="">
+<h1 class="sr-only">Provide options</h1>
+<h1 class="action-style">You provide Dr. Yuss with options.</h1>
+
+Offering Dr. Yuss a range of options often provides a sense of equity in the conversation. While your answer may be “no,” packaging that “no” as a set of options gives Dr. Yuss the power of choice. 
+
+Allowing patrons to imagine desirable outcomes before escalating a challenge often leads to a quicker resolution.
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Dilemma - Provide Options (Continued)(After Ignore)]]</span>
+
+
+:: Dilemma - Provide Options (Continued) {"position":"100,2600","size":"100,100"}
 <img class="fit-picture" src="images/Cat_NeutralPose.png" alt="The cat librarian is smiling and talking">
 
 <h1 class="action-style">Here are some ways you can provide options to Dr. Yuss:</h1>
@@ -703,6 +772,22 @@ Allowing patrons to imagine desirable outcomes before escalating a challenge oft
 [[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Practice more skills|Dilemma - Practice Skills (Your Move)]]</span>
 
 [[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Dilemma - Dr. Yuss Satisfied (Ending)]]</span>
+
+
+:: Dilemma - Provide Options (Continued)(After Ignore) {"position":"1200,2400","size":"100,100"}
+<img class="fit-picture" src="images/Cat_NeutralPose.png" alt="The cat librarian is smiling and talking">
+
+<h1 class="action-style">Here are some ways you can provide options to Dr. Yuss:</h1>
+
+<span class="speech-style">You:</span> What might a satisfying outcome look like for you? I can print out a book reconsideration form or discuss your concerns with our Collection Development Team. 
+
+<span class="speech-style">You:</span> Our initial step would be to share this feedback with our Collection Development Team. You can also fill out a book reconsideration form, if you'd prefer. What would be your ideal next step?
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Practice more skills|Dilemma - Practice Skills (Your Move)]]</span>
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Dilemma - Dr. Yuss Satisfied (Ending)(After Ignore)]]</span>
 
 
 :: Dilemma - Respectfully Disengage {"position":"1800,2250","size":"100,100"}
@@ -776,7 +861,7 @@ Library collection development is the process of systematically building the col
 [[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Dilemma - Chaos End Card (Ignore)]]</span>
 
 
-:: Dilemma - Show Appreciative Curiosity {"position":"1200,2250","size":"100,100"}
+:: Dilemma - Show Appreciative Curiosity {"position":"300,2400","size":"100,100"}
 <img class="fit-picture" src="images/ActionCard_ShowAppreciativeCuriosity.png" alt="">
 <h1 class="sr-only">Show appreciative curiosity</h1>
 <h1 class="action-style">You approach Dr. Yuss with appreciative curiosity.</h1>
@@ -787,12 +872,28 @@ However, expressing appreciative curiosity is not always as easy as it seems. Pr
 
 
 
-[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Dilemma - Show Appreciative Curiosity (Continued))]]</span>
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Dilemma - Show Appreciative Curiosity (Continued)]]</span>
 
 
 
 
-:: Dilemma - Show Appreciative Curiosity (Continued)) {"position":"1175,2450","size":"100,100"}
+:: Dilemma - Show Appreciative Curiosity (After Ignore) {"position":"1400,2200","size":"100,100"}
+<img class="fit-picture" src="images/ActionCard_ShowAppreciativeCuriosity.png" alt="">
+<h1 class="sr-only">Show appreciative curiosity</h1>
+<h1 class="action-style">You approach Dr. Yuss with appreciative curiosity.</h1>
+
+Appreciative curiosity acknowledges patron concerns and expresses gratitude for time spent on providing feedback. When applied gently and calmly, it can de-escalate a conversation as it disarms anger and allows both parties to retain control. It honors First Amendment and professional values.
+
+However, expressing appreciative curiosity is not always as easy as it seems. Properly applying it takes time, often out of a busy day. It is a skill that requires practice. 
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Dilemma - Show Appreciative Curiosity (Continued)(After Ignore)]]</span>
+
+
+
+
+:: Dilemma - Show Appreciative Curiosity (Continued) {"position":"300,2600","size":"100,100"}
 <img class="fit-picture" src="images/Cat_WarmResponse.png" alt="The cat librarian appears curious">
 
 <h1 class="action-style">To practice appreciative curiosity, here are some questions you can ask Dr. Yuss:</h1>
@@ -808,6 +909,24 @@ However, expressing appreciative curiosity is not always as easy as it seems. Pr
 [[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Practice more skills|Dilemma - Practice Skills (Your Move)]]</span>
 
 [[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Dilemma - Dr. Yuss Satisfied (Ending)]]</span>
+
+
+:: Dilemma - Show Appreciative Curiosity (Continued)(After Ignore) {"position":"1350,2400","size":"100,100"}
+<img class="fit-picture" src="images/Cat_WarmResponse.png" alt="The cat librarian appears curious">
+
+<h1 class="action-style">To practice appreciative curiosity, here are some questions you can ask Dr. Yuss:</h1>
+
+<span class="speech-style">You:</span> I see you are upset, and I want to hear more. How can I help?
+
+<span class="speech-style">You:</span> I'm grateful that you are sharing your concerns. What can I do to improve your experience at the library?
+
+<span class="speech-style">You:</span> Would you like to go someplace quieter so I can hear all of your concerns?
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Practice more skills|Dilemma - Practice Skills (Your Move)]]</span>
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Dilemma - Dr. Yuss Satisfied (Ending)(After Ignore)]]</span>
 
 
 :: Dilemma - Start Scene {"position":"2025,1350","size":"100,100"}
@@ -929,7 +1048,7 @@ How do you to try to resolve the situation?
 [[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Show appreciative curiosity|Farce - Show Appreciative Curiosity (After Ignore)]]</span>
 
 
-:: Farce - Chaos End Card {"position":"3000,3250","size":"100,100"}
+:: Farce - Chaos End Card {"position":"3000,3300","size":"100,100"}
  <img src="images/the_end.png" width="200" height="auto" alt="">
 <h1 class="sr-only">The End</h1>
 Thanks for choosing chaos! We're glad that you experimented with this option to see what would happen. As you've now discovered, choosing chaos can lead to challenges for you and your library. <br><br>Would you like to go back and practice some patron interaction skills to improve your outcome?<br><br>[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Practice skills|Farce - Practice Skills (Your Move)]]
@@ -1062,7 +1181,7 @@ Moms for Liberty is a conservative group launched in 2021. They advocate for rem
 [[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Farce - Explain Library Policy (Continued)]]</span>
 
 
-:: Farce - Great End Card {"position":"3950,3225","size":"100,100"}
+:: Farce - Great End Card {"position":"3900,3300","size":"100,100"}
  <img src="images/the_end.png" width="200" height="auto" alt="">
 <h1 class="sr-only">The End</h1>
 Congratulations on successfully navigating a challenging scenario! You chose a great option that often leads to positive outcomes with patrons. Your choice de-escalated the situation, left the patron feeling heard and respected, and built the relationship between the patron and the library.
@@ -1171,7 +1290,7 @@ Try to refrain from expressing judgment. Then summarize, share, and reflect on w
 [[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Farce - Engage (Ending)]]</span>
 
 
-:: Farce - Mid End Card {"position":"3475,3250","size":"100,100"}
+:: Farce - Mid End Card {"position":"3475,3300","size":"100,100"}
  <img src="images/the_end.png" width="200" height="auto" alt="">
 <h1 class="sr-only">The End</h1>
 You've navigated a challenging scenario and chose a viable option. However, it ended in a less-than-ideal outcome because your choice can ultimately lead to patrons feeling unheard or even disrespected. This unfortunately fails to build the relationship between the patron and the library.. <br><br>Would you like to go back and practice some patron interaction skills to improve your outcome?<br><br>[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Practice skills|Farce - Practice Skills (Your Move)]]
