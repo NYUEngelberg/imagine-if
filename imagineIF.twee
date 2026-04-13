@@ -8,7 +8,7 @@ Imagine IF: The Game (Current Version)
   "format": "Harlowe",
   "format-version": "3.3.9",
   "start": "Welcome",
-  "zoom": 0.6
+  "zoom": 0.3
 }
 
 
@@ -587,7 +587,7 @@ Try to refrain from expressing judgment. Then summarize, share, and reflect on w
 <span class="speech-style">You:</span> I want to hear more about what's upsetting you. Would you like to go someplace quieter so I can hear all of your concerns?
 
 
-[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Practice more skills|Dilemma - Practice Skills (Your Move)]]</span>
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Practice more skills|Dilemma - Engage (Your Move)(After Ignore)]]</span>
 
 [[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Dilemma - Dr. Yuss Satisfied (Ending)(After Ignore)]]</span>
 
@@ -619,7 +619,7 @@ You've navigated a challenging scenario and chose a viable option. However, it e
 
 
 
-:: Dilemma - Practice Skills (Your Move) {"position":"300,2200","size":"100,100"}
+:: Dilemma - Practice Skills (Your Move) {"position":"300,2125","size":"100,100"}
 <img class="fit-picture" src="images/Dilemma_PracticeSkills.png" alt="">
 <h1 class="sr-only">Engage</h1>
 <h1 class="action-style">You decide to practice your patron interaction skills.</h1>
@@ -785,7 +785,7 @@ Allowing patrons to imagine desirable outcomes before escalating a challenge oft
 
 
 
-[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Practice more skills|Dilemma - Practice Skills (Your Move)]]</span>
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Practice more skills|Dilemma - Engage (Your Move)(After Ignore)]]</span>
 
 [[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Dilemma - Dr. Yuss Satisfied (Ending)(After Ignore)]]</span>
 
@@ -924,7 +924,7 @@ However, expressing appreciative curiosity is not always as easy as it seems. Pr
 
 
 
-[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Practice more skills|Dilemma - Practice Skills (Your Move)]]</span>
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Practice more skills|Dilemma - Engage (Your Move)(After Ignore)]]</span>
 
 [[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Dilemma - Dr. Yuss Satisfied (Ending)(After Ignore)]]</span>
 
